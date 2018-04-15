@@ -7,6 +7,9 @@
 - Runner http://sketchrunner.com/
 - Symbol Manager https://gumroad.com/l/sketch-symbols-manager
 
+### Rules & Guidelines
+- Designing for iPhone X https://designcode.io/ios11-iphone-x
+
 ### Icons
 - Ionicons Cheat Sheet http://ionicons.com/cheatsheet.html
 
